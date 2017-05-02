@@ -1,0 +1,15 @@
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\bin\Debug\Stoper.exe.config
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\bin\Debug\Stoper.exe
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\bin\Debug\Stoper.pdb
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\bin\Debug\CircularProgressBar.dll
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\bin\Debug\WinFormAnimation.dll
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\bin\Debug\CircularProgressBar.xml
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\bin\Debug\WinFormAnimation.xml
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\obj\Debug\Stoper.csprojResolveAssemblyReference.cache
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\obj\Debug\Stoper.Form1.resources
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\obj\Debug\Stoper.Properties.Resources.resources
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\obj\Debug\Stoper.csproj.GenerateResource.Cache
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\obj\Debug\Stoper.exe
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\obj\Debug\Stoper.pdb
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\obj\Debug\Interop.WMPLib.dll
+c:\users\konrad\documents\visual studio 2017\Projects\Stoper\Stoper\obj\Debug\Stoper.csproj.ResolveComReference.cache
