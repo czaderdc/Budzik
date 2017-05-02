@@ -10,7 +10,10 @@ using System.Windows.Forms;
 using System.Timers;
 using System.Threading;
 using System.Media;
-
+/// <summary>
+///@Autor
+/// Konrad Czado 02.05.2017r
+/// </summary>
 namespace Stoper
 {
     public partial class Form1 : Form
